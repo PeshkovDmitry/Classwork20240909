@@ -4,8 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03ed422b-7c06-4e00-a6d0-e54d9a910cc2" name="Changes" comment="Решено задание 4">
-      <change afterPath="$PROJECT_DIR$/Task5.py" afterDir="false" />
+    <list default="true" id="03ed422b-7c06-4e00-a6d0-e54d9a910cc2" name="Changes" comment="Решено задание 5">
+      <change afterPath="$PROJECT_DIR$/Task06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserRepo/LevelError.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserRepo/Repo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserRepo/User.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserRepo/UserException.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserRepo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserRepo/user.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task05.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +58,11 @@
     "Python tests.Doctests in Task02.executor": "Run",
     "Python tests.Python tests in Task03.py.executor": "Run",
     "Python tests.Python tests in Task04.py.executor": "Run",
+    "Python tests.Python tests in Task06.py.executor": "Run",
+    "Python tests.Python tests in Task5.py.executor": "Run",
     "Python.Task01.executor": "Run",
     "Python.Task02.executor": "Run",
+    "Python.Task06.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "preferences.lookFeel"
@@ -97,13 +108,22 @@
       <option name="project" value="LOCAL" />
       <updated>1725736508460</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Решено задание 5">
+      <option name="closed" value="true" />
+      <created>1725737009852</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725737009852</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Решены задания 1 и 2" />
     <MESSAGE value="Решено задание 3" />
     <MESSAGE value="Решено задание 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Решено задание 4" />
+    <MESSAGE value="Решено задание 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решено задание 5" />
   </component>
 </project>
