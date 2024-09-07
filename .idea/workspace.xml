@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03ed422b-7c06-4e00-a6d0-e54d9a910cc2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Classwork20240909.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task02.py" afterDir="false" />
+    <list default="true" id="03ed422b-7c06-4e00-a6d0-e54d9a910cc2" name="Changes" comment="Решены задания 1 и 2">
+      <change afterPath="$PROJECT_DIR$/Task03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "PeshkovDmitry"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/PeshkovDmitry/Classwork20240909.git",
+    "accountId": "45fb3927-e131-4d60-a773-2998fb15f80d"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -42,6 +48,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Doctests in Task02.executor": "Run",
+    "Python tests.Python tests in Task03.py.executor": "Run",
     "Python.Task01.executor": "Run",
     "Python.Task02.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -64,6 +72,19 @@
       <option name="presentableId" value="Default" />
       <updated>1725733811233</updated>
     </task>
+    <task id="LOCAL-00001" summary="Решены задания 1 и 2">
+      <option name="closed" value="true" />
+      <created>1725734784361</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725734784361</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Решены задания 1 и 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решены задания 1 и 2" />
   </component>
 </project>
